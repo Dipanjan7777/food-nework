@@ -1,0 +1,29 @@
+/* font-family: 'Otomanopee One', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+p{
+    font-size: 18px;
+    line-height: 150%;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'Otomanopee One', sans-serif;
+    line-height: 75%;
+}
+.span-color{
+    color: #FE4C2F;
+}
+.section-inner-flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
